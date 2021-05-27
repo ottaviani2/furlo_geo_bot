@@ -1,0 +1,4 @@
+Fermare app nodejs da consolle linux su NETSONS
+
+ps -aef | grep node
+kill [process]
